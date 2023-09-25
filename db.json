@@ -1,0 +1,32 @@
+{
+  "courses": [
+    {
+      "name": "HTML5",
+      "id": 1
+    },
+    {
+      "name": "Css3",
+      "id": 2
+    },
+    {
+      "name": "Sass",
+      "id": 3
+    },
+    {
+      "name": "Java Script",
+      "id": 4
+    },
+    {
+      "name": "React Js",
+      "id": 5
+    },
+    {
+      "name": "Next Js",
+      "id": 6
+    },
+    {
+      "name": "c++",
+      "id": 7
+    }
+  ]
+}
